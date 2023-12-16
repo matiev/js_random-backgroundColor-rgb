@@ -5,5 +5,5 @@
   height: 30px;
   margin: 10px;
   border: 1px solid blue;
-  transform: rotate(-45deg) translate(-50%, -50%);
+  transform: rotate(-45deg);
 }
